@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: url-configmap
+data:
+  WHITE_DOMAIN: "conv.test"
+  API_DOMAIN: "conv.test/API"
+  
